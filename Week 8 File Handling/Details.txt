@@ -1,0 +1,7 @@
+Abel 19 CompSci Portsmouth
+Tom 18 History Oxford
+James 17 Biology Kettering
+Tina 20 Anthropology London
+Jane 21 Hair Newcastle
+Jules 22 Mech Engineering Cardiff
+Andrew 24 Physics York

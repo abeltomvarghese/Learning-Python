@@ -1,0 +1,11 @@
+file = open("exercise5.txt","w")
+filetwo = open("Example1.txt") 
+contents = filetwo.read() 
+file.write(contents)
+file.close()
+filetwo.close()
+
+filethr = open("exercise5.txt","r") 
+whole = filethr.read()
+print(whole)
+filethr.close()
